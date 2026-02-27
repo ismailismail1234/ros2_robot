@@ -122,5 +122,3 @@ For package-specific details, see the package directories:
 - [src/my_robot_bringup](src/my_robot_bringup)
 - [src/my_robot_description](src/my_robot_description)
 
-If you want, I can also add a minimal `CONTRIBUTING.md`, example launch
-invocations, or a recommended `ros2` distro to the README — tell me which.
