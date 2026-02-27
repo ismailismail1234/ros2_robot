@@ -65,8 +65,7 @@
     <xacro:sphere_inertia m="0.5" r="${2.0*wheel_radius * 0.5}" xyz="0 0 0" rpy="0 0 0"/>
   </link>
 
-  <link name="base_footprint">
-  </link>
+  <link name="base_footprint" />
 
 
   <joint name="base_right_wheel_joint" type="continuous">
