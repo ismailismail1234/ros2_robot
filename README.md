@@ -1,6 +1,6 @@
 # ROS2 Research Workspace
 
-A compact ROS 2 workspace containing packages for bringing up and describing
+A compact ROS 2 HUMBLE workspace containing packages for bringing up and describing
 a mobile robot platform. This repository is organized for rapid development
 and experimentation with bringup, robot description, and simulation.
 
